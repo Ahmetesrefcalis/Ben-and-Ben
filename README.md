@@ -1,2 +1,1 @@
-# Ben-and-Ben
-Ben
+print("hello world")
